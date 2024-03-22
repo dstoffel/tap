@@ -17,4 +17,4 @@ spec:
   lifecycle: experimental
   owner: default-team
   providesApis:
-    - dev/tap-flask
+    - dev/tap-flask-906e7589
