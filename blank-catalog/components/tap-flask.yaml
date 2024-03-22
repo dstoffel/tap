@@ -16,3 +16,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: default-team
+  providesApis:
+    - dev/tap-flask
